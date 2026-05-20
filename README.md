@@ -54,6 +54,7 @@ Languages:
 Frontend:
 
 `React.js`
+`Next.js`
 `HTML`
 `CSS`
 `TailwindCSS`
@@ -76,8 +77,6 @@ Tools:
 `Docker`
 `Git`
 `Postman`
-`Linux`
-`FFmpeg`
 
 ---
 
