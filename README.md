@@ -1,109 +1,81 @@
-
-
 <!--
-**anmolrai03/anmolrai03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**anmolrai03/anmolrai03** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
 
 <h1 align="center">Hi, I'm Anmol Rai 👋</h1>
 
 <p align="center">
-Computer Science (2026) • Full Stack Development • Backend Systems • Distributed Processing
+Computer Science '26 &nbsp;•&nbsp; Full Stack Development &nbsp;•&nbsp; Backend Systems &nbsp;•&nbsp; Distributed Processing
 </p>
 
 <p align="center">
-React.js • Node.js • Docker • Redis • SQL • Python • REST APIs
+  <a href="https://linkedin.com/in/anmol-rai-4203b6285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anmolrai0307@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/anmolrai03"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## About
+### About
 
-Computer Science graduate (2026) focused on building scalable full stack applications, backend systems, distributed processing pipelines and API driven applications.
+Computer Science graduate (2026) focused on building scalable full stack applications, backend systems, and distributed processing pipelines.
 
-Current interests:
-
-- Backend Development
-- Distributed Systems
-- REST APIs
-- Full Stack Development
-- Scalable Architectures
+- 🔭 Currently building **VideoStack** — a stateless, Dockerized video-processing pipeline with FFmpeg + BullMQ
+- 🌱 Currently learning **AI Agents & LangChain fundamentals**
+- 💬 Ask me about **React, Node.js, REST API design, or microservices architecture**
+- 📫 Reach me at **anmolrai0307@gmail.com**
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-Languages:
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-`JavaScript`
-`Python`
-`Java`
-`SQL`
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-Frontend:
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-`React.js`
-`Next.js`
-`HTML`
-`CSS`
-`TailwindCSS`
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
-Backend:
-
-`Node.js`
-`Express.js`
-`Django`
-`FastAPI`
-
-Databases:
-
-`MongoDB`
-`Redis`
-`SQL`
-
-Tools:
-
-`Docker`
-`Git`
-`Postman`
+**Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## Projects
+### Projects
 
-### VideoStack
-Distributed video processing platform supporting upload, transcoding, HLS streaming and asynchronous workflows.
+**[VideoStack](https://github.com/anmolrai03/VideoStack)** — Full-stack video processing platform
+Stateless Dockerized backend supporting upload, transcoding, resolution scaling, and audio extraction, built on Node.js + FFmpeg with async job processing.
+`React.js` `Node.js` `Docker` `Redis` `FFmpeg`
 
-Tech:
-React.js • Node.js • Docker • Redis • FFmpeg
-
----
-
-### OneVote-V2
-Microservices based online voting platform with authentication, biometric verification and audit logging.
-
-Tech:
-FastAPI • PostgreSQL • Redis • Docker
+**[OneVote-V2](https://github.com/anmolrai03/OneVote-V2)** — Secure microservice-based voting platform
+Digital election platform with KYC/biometric identity verification, tamper-resistant audit logging, and high-concurrency vote handling.
+`FastAPI` `PostgreSQL` `Redis` `Docker`
 
 ---
 
-## Links
+### GitHub Stats
 
-LinkedIn:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmolrai03&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolrai03&layout=compact&hide_border=true" />
+</p>
 
-https://linkedin.com/in/anmolrai03
-
-GitHub:
-
-https://github.com/anmolrai03
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolrai03&hide_border=true" />
+</p>
